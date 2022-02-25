@@ -1,0 +1,8 @@
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\WebAppUsingAPI\obj\Debug\net6.0\WebAppUsingAPI.csproj.AssemblyReference.cache
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\WebAppUsingAPI\obj\Debug\net6.0\WebAppUsingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\WebAppUsingAPI\obj\Debug\net6.0\WebAppUsingAPI.AssemblyInfoInputs.cache
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\WebAppUsingAPI\obj\Debug\net6.0\WebAppUsingAPI.AssemblyInfo.cs
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\WebAppUsingAPI\obj\Debug\net6.0\WebAppUsingAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\WebAppUsingAPI\obj\Debug\net6.0\WebAppUsingAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\WebAppUsingAPI\obj\Debug\net6.0\WebAppUsingAPI.RazorAssemblyInfo.cache
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\WebAppUsingAPI\obj\Debug\net6.0\WebAppUsingAPI.RazorAssemblyInfo.cs

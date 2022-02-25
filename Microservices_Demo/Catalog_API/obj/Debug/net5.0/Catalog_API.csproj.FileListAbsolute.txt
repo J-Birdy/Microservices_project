@@ -1,0 +1,89 @@
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\appsettings.json
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\Catalog_API.exe
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\Catalog_API.deps.json
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\Catalog_API.runtimeconfig.json
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\Catalog_API.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\Catalog_API.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\ref\Catalog_API.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\Catalog_API.pdb
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\DnsClient.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\Catalog_API.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\Catalog_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\Catalog_API.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\Catalog_API.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\Catalog_API.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\Catalog_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\Catalog_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\staticwebassets\Catalog_API.StaticWebAssets.Manifest.cache
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\staticwebassets\Catalog_API.StaticWebAssets.xml
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\scopedcss\bundle\Catalog_API.styles.css
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\Catalog_API.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\Catalog_API.csproj.CopyComplete
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\Catalog_API.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\ref\Catalog_API.dll
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\Catalog_API.pdb
+C:\Users\DELL\source\repos\MicroServices\Catalog_API\obj\Debug\net5.0\Catalog_API.genruntimeconfig.cache
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\appsettings.json
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\Catalog_API.StaticWebAssets.xml
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\Catalog_API.exe
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\Catalog_API.deps.json
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\Catalog_API.runtimeconfig.json
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\Catalog_API.runtimeconfig.dev.json
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\Catalog_API.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\ref\Catalog_API.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\Catalog_API.pdb
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\obj\Debug\net5.0\Catalog_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\obj\Debug\net5.0\Catalog_API.AssemblyInfoInputs.cache
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\obj\Debug\net5.0\Catalog_API.AssemblyInfo.cs
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\obj\Debug\net5.0\Catalog_API.csproj.CoreCompileInputs.cache
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\obj\Debug\net5.0\Catalog_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\obj\Debug\net5.0\Catalog_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\obj\Debug\net5.0\scopedcss\bundle\Catalog_API.styles.css
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\obj\Debug\net5.0\staticwebassets\Catalog_API.StaticWebAssets.Manifest.cache
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\obj\Debug\net5.0\Catalog_API.RazorTargetAssemblyInfo.cache
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\obj\Debug\net5.0\Catalog_API.csproj.CopyComplete
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\obj\Debug\net5.0\Catalog_API.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\obj\Debug\net5.0\ref\Catalog_API.dll
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\obj\Debug\net5.0\Catalog_API.pdb
+C:\Users\Jaden Williams\Documents\GitHub\Microservices_project\Microservices_Demo\Catalog_API\obj\Debug\net5.0\Catalog_API.genruntimeconfig.cache
